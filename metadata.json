@@ -1,0 +1,6 @@
+{
+  "name": "Relu Consultancy - Company Research Agent",
+  "description": "ChatGPT-style AI company research agent that crawls corporate websites, runs Serper search analysis, identifies operational pain points and competitors with OpenRouter AI, exports downloadable PDF reports, and posts alerts to Discord.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
